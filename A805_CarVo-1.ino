@@ -40,7 +40,10 @@ void loop(){
       break;
     case 'R':
       right();
-      break;            
+      break;
+      case 'S':
+Stop();
+break;        
     }
   } 
 }
